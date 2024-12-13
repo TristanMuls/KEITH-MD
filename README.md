@@ -1,90 +1,151 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 </h1>
+ <p align="center">
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
+</p>
 
- 
-<h1 align="center"> Survival is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓+𝓥𝟏;Created+by+𝒟𝒶𝓃𝓃𝓎;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://files.catbox.moe/f6j3fl.jpeg" alt="Main Graphic" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/XlQIFIF.jpeg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-
-<details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
-- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈🔥.
-- 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
-
-</details>
-
-
-**👇FORK REPO**
-
-  
-
-<a href="https://github.com/keithkeizzah/KEITH-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK KEITH" width="150"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
-
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git)***
-
-<br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/keithkeizzah/KEITH-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
-  
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
-
-**𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/DvXonepPp1XBPOYIBziTl1" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/DannyTech20?tab=followers">
+    <img src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/">
+    <img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+    <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
+    <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/">
+    <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">🚀 Features</h2>
+
+- 🌟 Advanced WhatsApp bot functionalities.
+- 🔥 Fully customizable bug responses.
+- 📦 Lightweight and efficient codebase.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">🛠️ Steps to Get Started</h2>
+
+<h3 align="left">1️⃣ Fork the Repo</h3>
+<p align="left">
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
+  </a>
+</p>
+
+<h3 align="left">2️⃣ Download the ZIP File</h3>
+<p align="left">
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
+  </a>
+</p>
 
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
-
-   
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### Get Your Session ID
+<p align="center">
+  <a href="https://creepy-session.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
+  </a>
+</p>
 
 
-Enjoy the diverse features of 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃  to enhance your Whatsapp more enjoyable
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
 
+<h2 align="center">📋 Deployment Tutorial</h2>
 
-### Credits to:
-- [FortunaMokaya](https://github.com/Fortunatusmokaya) for the founder of this bot's base
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### YouTube Bot Hosting  
+<a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
+</a>
 
+---
+<h2 align="center">📋 Deployment websites</h2>
+
+### main site bot hosting
+<a href="https://bot-hosting.net/?aff=1297254811795722383" target="_blank">
+  <img src="https://img.shields.io/badge/Bot%20hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Bot hosting" />
+</a>
+
+---
+
+### Deploy in Replit  
+<a href="https://repl.it/github.com/DannyTech20/CREEPY_MD-V1" target="_blank">
+  <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
+</a>
+
+---
+
+### Deploy in Google Cloud  
+<a href="https://cloud.google.com/shell/?aff=1097457675723341836" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</a>
+
+---
+
+### Deploy in Render  
+<a href="https://dashboard.render.com" target="_blank">
+  <img src="https://img.shields.io/badge/Render-maroon?style=for-the-badge&logo=render" alt="Render Hosting" />
+</a>
+
+---
+
+### Deploy in Codespaces  
+<a href="https://github.com/codespaces/new" target="_blank">
+  <img src="https://img.shields.io/badge/Codespaces-navy?style=for-the-badge&logo=visual-studio-code" alt="Deploy in Codespaces" />
+</a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">📲 Join the Community</h2>
+
+<a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r" target="_blank">
+  <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
+</a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">🎉 Thank You, My Supporters!</h2>
+
+<p align="center">
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers">
+    <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+    <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
+  </a>
+</p>
+
+<p align="center">
+  🌟 *Your support keeps this project alive! Thank you for forking, starring, and sharing it with others!* 🌟
+</p>
